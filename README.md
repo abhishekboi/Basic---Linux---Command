@@ -50,7 +50,7 @@ Can work on any Linux environment.
 
 10. cat etc/gshadow (Groups Password)
   
-  ## Packages in the Video
+  ## Packages to update System
 
 1. apt-get update 
 
