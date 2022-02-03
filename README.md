@@ -44,8 +44,6 @@ Can work on any Linux environment.
 
 8. cat etc/shadow (Users Password)
   
-
-
 9. cat etc/group (Groups)
 
 10. cat etc/gshadow (Groups Password)
