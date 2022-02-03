@@ -26,6 +26,8 @@ Can work on any Linux environment.
 
 12. shutdown now, -r, -c
   
+13. cd, cd.., cd~  
+  
   ## User Related Commands
 
 1. adduser username
